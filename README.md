@@ -1,16 +1,29 @@
-# React + Vite
+Tarea 3 – Desarrollo Móvil
+ 
+Estudiante: Rozenny Pie Valentin  
+Matrícula: 2021-0685  
+Correo: 20210685@itla.edu.do
+C1-2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+___________________________________________________________________________________________
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Descripción
+Esta es mi Tarea 3 de Desarrollo Móvil realizada en Reactm para la materia de: INTRODUCCIÓN AL DESARROLLO DE APLIACIONES MÓVILES.
 
-## Expanding the ESLint configuration
+La aplicación incluye:
+ 
+- Mostrar mis datos personales: nombre, matrícula, correo y foto 2x2.  
+- Sumadora interactiva: permite ingresar dos números y ver el resultado dinámicamente.  
+- Traductor de números a letras (1-1000) en español, sin usar APIs externas.  
+- Tabla de multiplicar: genera la tabla de cualquier número hasta el 13.  
+- Experiencia personal: video explicando el proceso, los retos y lo aprendido.
+ 
+Observaciones
+- La app fue desarrollada exclusivamente en React para esta tarea.  
+- Se busca mostrar creatividad y conocimientos. 
+- La foto utilizada está en la carpeta `public` con nombre `foto.png`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
