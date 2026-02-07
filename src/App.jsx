@@ -204,7 +204,7 @@ function Experiencia() {
       <iframe
         width="360"
         height="215"
-        src="https://www.youtube.com/watch?v=2UpwTp-owL4"
+        src="https://www.youtube.com/embed/2UpwTp-owL4?si=8X1FRrCqay9h2qyt"
         allowFullScreen
         style={{ borderRadius: "8px" }}
       ></iframe>
